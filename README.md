@@ -20,6 +20,4 @@
 
 <p align="center"><a href="https://ko-fi.com/dezio"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dezio" /></a></p><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b4-io&show_icons=true&locale=en&layout=compact" alt="b4-io" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b4-io&" alt="b4-io" /></p>
