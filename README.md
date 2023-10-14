@@ -2,7 +2,7 @@
 <h3 align="center">A curious developer eager to learn new stuff</h3>
 <p align="center"> <a href="https://twitter.com/dezio_uy" target="blank"><img src="https://img.shields.io/twitter/follow/dezio_uy?logo=twitter&style=for-the-badge" alt="dezio_uy" /></a> </p>
 
-<p align="center"> 🌱 I’m looking to learn <b>Rust, RedisDB, Elasting Search</b> </p>
+<p align="center"> 🌱 I’m looking to learn <b>Rust</b> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
